@@ -1,4 +1,26 @@
 .me {
 	border-radius: 180px;
+	box-shadow: 0px 0px 0px 6px #ff3800;
 }
 
+.social a{
+	padding: 0px 0.2rem!important;
+}
+.social img{
+	height: 42px;
+}
+
+.panel {
+	margin-top: 10px;
+	padding: 0.7rem!important;
+}
+
+.panel p {
+	margin-top: 2rem;
+}
+
+.c100 {
+	display: inline-block;
+	float: none;
+	margin: 0px;
+}
