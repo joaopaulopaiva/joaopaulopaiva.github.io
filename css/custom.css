@@ -125,3 +125,8 @@ p {
 	-ms-transform: scale(1);
 	transform: scale(1);
 }
+
+#service {
+	display: flex;
+	justify-content: center;
+}
