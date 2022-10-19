@@ -126,7 +126,7 @@ p {
 	transform: scale(1);
 }
 
-#service {
+#service-list {
 	display: flex;
 	justify-content: center;
 }
